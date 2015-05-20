@@ -1,0 +1,22 @@
+{
+  "name": "yaml-validator",
+  "version": "1.0.0-0",
+  "description": "Validate YAML files are proper format",
+  "main": "index.js",
+  "bin": {
+    "verify-yaml": "cli/verifyYaml.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yaml"
+  ],
+  "author": "Joe Cyboski <cybo42@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "~5.0.6",
+    "js-yaml": "~3.3.1"
+  }
+}
+
