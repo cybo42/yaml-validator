@@ -15,6 +15,7 @@
   "author": "Joe Cyboski <cybo42@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "debug": "^4.3.4",
     "glob": "~5.0.6",
     "js-yaml": "^3.14.1"
   }
